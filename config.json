@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersender",
+        "uuid": 36925842,
+        "checksum": "3f8rd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
